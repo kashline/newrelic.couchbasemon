@@ -1,0 +1,2 @@
+C:\Code\newrelic-couch-plugin\newrelic-couch-plugin\newrelic-couch-plugin\bin\Debug\newrelic-couch-plugin.exe.config
+C:\Code\newrelic-couch-plugin\newrelic-couch-plugin\newrelic-couch-plugin\obj\Debug\newrelic-couch-plugin.csprojResolveAssemblyReference.cache
